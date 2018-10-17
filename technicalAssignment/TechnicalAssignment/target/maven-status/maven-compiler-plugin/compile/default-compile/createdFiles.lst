@@ -1,0 +1,6 @@
+com\ufinity\api\Request.class
+com\ufinity\requirements\Function.class
+com\ufinity\util\ChartUtils.class
+com\ufinity\main\MainFunction.class
+com\ufinity\model\InterestRates.class
+com\ufinity\config\Config.class
