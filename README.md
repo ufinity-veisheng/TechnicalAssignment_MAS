@@ -25,8 +25,8 @@ Using Windows Command Line
 ```
 Using Eclipse IDE
 ```
-1. Download the application from here [link](https://github.com/ufinity-veisheng/TechnicalAssignment_MAS.git)
-2. Import the project into eclipse
+1. Clone the project using GitClone and select the directory to clone
+2. Open it with Eclipse IDE
 3. Press ***ctrl + b*** to build all the project 
 4. Access to **src/com.ufinity.main/MainFunction.java** directory, right-click **Run as > Java Application**
 5. In the console, enter (**from** and **to**) date with the format (**MMM-yyyy e.g. Jan-2017**) and the result will be shown
