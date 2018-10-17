@@ -14,12 +14,21 @@ The design patterns that applied in this application is a common class abstract 
 
 # Procedure To Build The Code & Run The Application
 ```
-Using Windows Command Line
+Pre-requisite: Install Maven in local machine
 ```
-Pre-requisite : Maven installation is required in local machine. If already have maven in local machine, you may proceed to step 3.
-1. Go to this [link](http://maven.apache.org/download.cgi) to download the maven in the local machine
-2. This [link](http://maven.apache.org/install.html) is the installation steps for maven in the local machine
+1. Go to this [link](http://maven.apache.org/download.cgi) to download the maven
+2. Click **Windows + R** and enter the command **SystemPropertiesAdvanced.exe**
+3. Click into **Environment Variable** 
+4. Make sure JDK is installed, and **JAVA_HOME** variable is added as Windows environment variable
+5. Assume you have unzip the maven installer which downloaded earlier
+6. Add both **M2_HOME** and **MAVEN_HOME** variables in the Windows environment, and point it to your Maven folder.
+7. Update **PATH** variable, append Maven bin folder – **%M2_HOME%\bin**, so that you can run the Maven’s command everywhere.
+8. To verify it, run **mvn –version** in the command prompt.
+9. For more reference, you may access these pages [Insalling Apache Maven](http://maven.apache.org/install.html) and [How to install maven in windows?](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
 
+```
+Using Windows Command Line required Maven Installed in Local Machine
+```
 1. Download the application from here [link](https://github.com/ufinity-veisheng/TechnicalAssignment_MAS.git) as a zip file
 2. Extract the .zip file, and access to the (**\TechnicalAssignment_MAS-master\TechnicalAssignment_MAS-master\technicalAssignment\TechnicalAssignment**) using command line
 3. Run the command ***mvn clean install*** for the first time
