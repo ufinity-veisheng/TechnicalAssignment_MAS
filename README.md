@@ -16,7 +16,7 @@ The design patterns that applied in this application is the common class abstrac
 ```
 Using Windows Command Line
 ```
-1. Download the application from here [link]()
+1. Download the application from here [link](https://github.com/ufinity-veisheng/TechnicalAssignment_MAS.git)
 2. Access to the TechnicalAssignment directory using command line (**e.g C:\technicalAssignment\TechnicalAssignment**)
 3. Run the command ***mvn clean install*** for the first time
 4. If already perfomed before ***mvn clean install*** command, you may directly run the command ***mvn package***
@@ -25,7 +25,7 @@ Using Windows Command Line
 ```
 Using Eclipse IDE
 ```
-1. Download the application from here [link]()
+1. Download the application from here [link](https://github.com/ufinity-veisheng/TechnicalAssignment_MAS.git)
 2. Import the project into eclipse
 3. Press ***ctrl + b*** to build all the project 
 4. Access to **src/com.ufinity.main/MainFunction.java** directory, right-click **Run as > Java Application**
