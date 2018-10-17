@@ -30,7 +30,7 @@ Pre-requisite: Install Maven in local machine
 Using Windows Command Prompt required Maven Installed in Local Machine
 ```
 1. Download the application from here [link](https://github.com/ufinity-veisheng/TechnicalAssignment_MAS.git) as a zip file
-2. Extract the .zip file, and access to the (**\TechnicalAssignment_MAS-master\TechnicalAssignment_MAS-master\technicalAssignment\TechnicalAssignment**) using command line
+2. Extract the .zip file, and access to the (**\TechnicalAssignment_MAS-master\TechnicalAssignment_MAS-master\technicalAssignment\TechnicalAssignment**) using command prompt
 3. Run the command ***mvn clean install*** for the first time
 4. If already perfomed before ***mvn clean install*** command, you may directly run the command ***mvn package***
 5. After the build process is completed. You may run the command ***mvn exec:java***, and the application will be executed
