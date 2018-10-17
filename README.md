@@ -16,8 +16,12 @@ The design patterns that applied in this application is a common class abstract 
 ```
 Using Windows Command Line
 ```
+Pre-requisite
+1. Go to this [link](http://maven.apache.org/download.cgi) to download the maven in the local machine
+2. This [link][http://maven.apache.org/install.html] is the installation steps for maven in the local machine
+
 1. Download the application from here [link](https://github.com/ufinity-veisheng/TechnicalAssignment_MAS.git) as a zip file
-2. Extract the .zip file, and access to the (**\TechnicalAssignment_MAS-master\TechnicalAssignment_MAS-master\technicalAssignment\TechnicalAssignment**) using command line.
+2. Extract the .zip file, and access to the (**\TechnicalAssignment_MAS-master\TechnicalAssignment_MAS-master\technicalAssignment\TechnicalAssignment**) using command line
 3. Run the command ***mvn clean install*** for the first time
 4. If already perfomed before ***mvn clean install*** command, you may directly run the command ***mvn package***
 5. After the build process is completed. You may run the command ***mvn exec:java***, and the application will be executed
