@@ -27,7 +27,7 @@ Pre-requisite: Install Maven in local machine
 9. For more reference, you may access these pages [Insalling Apache Maven](http://maven.apache.org/install.html) and [How to install maven in windows?](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
 
 ```
-Using Windows Command Line required Maven Installed in Local Machine
+Using Windows Command Prompt required Maven Installed in Local Machine
 ```
 1. Download the application from here [link](https://github.com/ufinity-veisheng/TechnicalAssignment_MAS.git) as a zip file
 2. Extract the .zip file, and access to the (**\TechnicalAssignment_MAS-master\TechnicalAssignment_MAS-master\technicalAssignment\TechnicalAssignment**) using command line
