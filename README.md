@@ -16,7 +16,7 @@ The design patterns that applied in this application is a common class abstract 
 ```
 Using Windows Command Line
 ```
-Pre-requisite
+Pre-requisite : Maven installation is required in local machine. If already have maven in local machine, you may proceed to step 3.
 1. Go to this [link](http://maven.apache.org/download.cgi) to download the maven in the local machine
 2. This [link](http://maven.apache.org/install.html) is the installation steps for maven in the local machine
 
